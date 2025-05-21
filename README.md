@@ -2,8 +2,7 @@
 
 # FusionLightNet: A Robust Framework for Multi-Scale Traffic Signal Detection with AI-Generated Data
 
-[![Dataset Download](https://img.shields.io/badge/Download-FusionLightNet%20Dataset-blue)](https://drive.google.com/file/d/XXXX/view?usp=drive_link)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Dataset Download](https://drive.google.com/file/d/1EbeIp8k9ojN_YTJNbf3EPgIOUgL2z4-6/view?usp=drive_link)]
 
 </div>
 
@@ -17,10 +16,7 @@
 
 ## 📅 Recent Updates
 
-- **[2025/03/20]**: Open-sourced the complete code for the **FusionLightNet** framework. We invite you to explore and utilize it in your research! 😊
-- **[2025/03/18]**: We achieved state-of-the-art performance on the LISA Traffic Light Dataset.
-- **[2025/03/15]**: Updated the dataset with additional images under diverse lighting conditions to enrich the training resources.
-- **[2025/03/11]**: Integrated key modules for enhanced dynamic feature fusion and contextual modeling.
+- **[2025/05/21]**: We've opened up our dataset! [[FLNT-Dataset]](https://drive.google.com/file/d/1EbeIp8k9ojN_YTJNbf3EPgIOUgL2z4-6/view?usp=drive_link)
 
 ---
 
